@@ -21,5 +21,5 @@
 #### PHP版本和集成环境？
 
 - 5.6及以上即可，课程演示默认使用的是7
-- 集成环境推荐使用[phpstudy]([Windows版phpstudy下载 - 小皮面板(phpstudy) (xp.cn)](https://www.xp.cn/download.html))和[phpcustom]([PHPCUSTOM-最专业的PHP全自定义集成环境/纯绿色免安装](http://www.phpcustom.com/))因为有中文
+- 集成环境推荐使用[phpstudy](https://www.xp.cn/download.html)和[phpcustom]([PHPCUSTOM-最专业的PHP全自定义集成环境/纯绿色免安装](http://www.phpcustom.com/))因为有中文
 
