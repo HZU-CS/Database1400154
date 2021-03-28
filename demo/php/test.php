@@ -1,6 +1,7 @@
 <?php
 // 连接数据库
-$link = mysqli_connect("localhost", "root", "root", "test");
+// 参考https://www.runoob.com/php/func-mysqli-connect.html
+$link = mysqli_connect("localhost", "root", "root", "test", 3306);
 if (mysqli_connect_error()) {
     // 连接数据库失败，关闭连接
     die("数据库连接错误");
@@ -44,4 +45,7 @@ if ($result = mysqli_query($link, $query)) {
 } else {
     echo "删除语句执行失败" . "<br>";
 }
+
+// 执行完毕，关闭连接
+mysqli_close($link);
 ?>
