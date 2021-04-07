@@ -38,7 +38,7 @@
 
 [课程展示](./demo)
 
-[JoinUs](https://hzu-db.run.goorm.io)
+[JoinUs](https://hzu-db.herokuapp.com/)
 
 #### FAQ
 
