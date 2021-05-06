@@ -8,9 +8,9 @@ https://www.cnblogs.com/RunForLove/p/5693986.html
 
 ## 王珊这么说
 
-![img](https://p.ananas.chaoxing.com/star3/origin/35e5af5fe3867bb2d9e2b2655def079b.png)
+![img](35e5af5fe3867bb2d9e2b2655def079b.png)
 
-![img](https://p.ananas.chaoxing.com/star3/origin/b04e398ef5cb2b9f9124d1301c7d9935.png)
+![img](b04e398ef5cb2b9f9124d1301c7d9935.png)
 
 ## 到底怎么说
 
@@ -26,7 +26,7 @@ https://www.cnblogs.com/RunForLove/p/5693986.html
 
       2. 这个问题数据库可以解决，但是方便否？（毕设论文博客）
 
-         ![image-20210506115332404](C:\Users\cxhhg\AppData\Roaming\Typora\typora-user-images\image-20210506115332404.png)
+         ![image-20210506115332404](image-20210506115332404.png)
 
       3. 干不了，谢谢。
 
@@ -74,7 +74,7 @@ https://www.cnblogs.com/RunForLove/p/5693986.html
 
    1. premature optimization is the root of all evil（不要**瞎**优化）
 
-      ![img](https://pic1.zhimg.com/80/c1d02359f811d6c676a06e5104a3736a_1440w.jpg?source=1940ef5c)
+      ![img](c1d02359f811d6c676a06e5104a3736a_1440w.jpg)
 
       > 我想，Donald Knuth这里说的是为时过早的优化，而不是指早期的设计，你说的数据库结构，各种接口等等，应该是设计范畴的，Design，而不应该是优化，Optimiziation。 
       >
@@ -90,3 +90,10 @@ https://www.cnblogs.com/RunForLove/p/5693986.html
 
 ### 若干案例
 
+考试毕设
+
+网课毕设
+
+![image-20210506121002044](image-20210506121002044.png)
+
+博客毕设
