@@ -23,3 +23,9 @@
 - 5.6及以上即可，课程演示默认使用的是7
 - 集成环境推荐使用[phpstudy](https://www.xp.cn/download.html)和[phpcustom]([PHPCUSTOM-最专业的PHP全自定义集成环境/纯绿色免安装](http://www.phpcustom.com/))因为有中文
 
+[tison：软件工程专业困局（写在高考之前）](https://zhuanlan.zhihu.com/p/378441006)
+
+[迟先生：与恶龙斗，其乐无穷](https://zhuanlan.zhihu.com/p/345269981)
+
+[CS自救指北](https://survivesjtu.gitbook.io/survivesjtumanual/fu-lu/ben-ke-sheng-zhuan-ye-jie-shao-todo/cs-zi-jiu-zhi-bei)
+
